@@ -1,6 +1,8 @@
 # 2025 KIIS Spring Conference pp.223-224
 Theme: Optimal Data Selection from Sentiment-Rating Analysis for Improving Recommendation Systems
 
+Sangmin Kim, Jaejoon Choi, and Sanghyun Choo , “Optimal Data Selection from Sentiment-Rating Analysis for Improving Recommendation Systems ”, Proceedings of Korean Institute of Intelligent Systems, 2025, Vol. 35, No. 1, 2025, pp. 223-224. 
+
 URL: https://kiis.or.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20250201&CpPage=168#CONF
 
 
