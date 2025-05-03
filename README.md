@@ -1,1 +1,9 @@
-# 2025-KIIS-Spring-Conference-pp.223-224
+# 2025 KIIS Spring Conference pp.223-224
+Theme: Enhancing Recommender Systems through Sentiment-Aware Rating Recalibration
+
+URL: https://kiis.or.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20250201&CpPage=168#CONF
+
+
+
+
+![2025_KIIS_Spring_Poster_상민_Final (1)_page-0001](https://github.com/user-attachments/assets/322978a0-a8bf-49e5-8caa-70c25a86d42f)
