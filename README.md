@@ -1,5 +1,5 @@
 # 2025 KIIS Spring Conference pp.223-224
-Theme: Enhancing Recommender Systems through Sentiment-Aware Rating Recalibration
+Theme: Optimal Data Selection from Sentiment-Rating Analysis for Improving Recommendation Systems
 
 URL: https://kiis.or.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20250201&CpPage=168#CONF
 
